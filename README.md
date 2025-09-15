@@ -1,8 +1,4 @@
 <!--Header-->
-<div align="center">
-  <img src="https://media.giphy.com/media/TRJ2h3l2SscPlvI9d4/giphy.gif" width="400" />
-</div>
-
 <h1 align="center">Hi there, I'm Pavan Kumar Reddy 👋</h1>
 <h3 align="center">A Data Scientist passionate about transforming data into intelligent solutions.</h3>
 
