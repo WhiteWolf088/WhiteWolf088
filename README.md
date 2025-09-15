@@ -1,4 +1,8 @@
 <!--Header-->
+<div align="center">
+  <img src="https://media.giphy.com/media/TRJ2h3l2SscPlvI9d4/giphy.gif" width="400" />
+</div>
+
 <h1 align="center">Hi there, I'm Pavan Kumar Reddy 👋</h1>
 <h3 align="center">A Data Scientist passionate about transforming data into intelligent solutions.</h3>
 
@@ -11,7 +15,7 @@ I'm an innovative Data Scientist with over 3 years of experience in building end
 - 🔭 I’m currently a **Data Scientist** at **Renault-Nissan Technology & Business Center India**.
 - 🌱 I’m currently exploring advanced techniques in **Large Language Models (LLMs)** and **Computer Vision**.
 - 💬 Ask me about **Generative AI (RAG), GCP, Python, and Machine Learning**.
-- 📫 How to reach me: **ppavankr77@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/ppavankumarreddy).
+- 📫 How to reach me: **ppavankr77@gmail.com** or on <a href="https://www.linkedin.com/in/ppavankumarreddy" target="_blank">**LinkedIn**</a>.
 
 ---
 
