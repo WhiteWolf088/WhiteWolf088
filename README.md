@@ -1,6 +1,6 @@
 <!--Header-->
 <div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="350" />
+  <img src="https://media.giphy.com/media/TRJ2h3l2SscPlvI9d4/giphy.gif" width="400" />
 </div>
 
 <h1 align="center">Hi there, I'm Pavan Kumar Reddy 👋</h1>
@@ -74,34 +74,41 @@ I'm an innovative Data Scientist with over 3 years of experience in building end
 
 ---
 
-### 🏆 **Featured Projects**
+### 🏆 **Professional Experience & Projects**
 
-<table>
-  <tr>
-    <td width="50%">
-      <h4 align="center">Gen AI Chatbot for Mobility Data</h4>
-      <p>Architected a chatbot using a RAG framework to translate natural language questions into dynamic SQL queries against GCP BigQuery, democratizing data access for stakeholders.</p>
-      <p><strong>Technologies:</strong> Generative AI, RAG, LLMs, GCP BigQuery, Python</p>
-    </td>
-    <td width="50%">
-      <h4 align="center">Workplace Safety Object Detection System</h4>
-      <p>Developed and trained a custom MobileNet model with OpenCV to monitor the real-time distance between vehicles and testers, triggering safety alerts when a 1-meter threshold was breached.</p>
-      <p><strong>Technologies:</strong> Computer Vision, MobileNet, OpenCV, TensorFlow, Python</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4 align="center">Driver Scoring & Behavior Analysis</h4>
-      <p>Engineered a driver scoring system by analyzing vehicle CAN data. Utilized statistical models (PDF/CDF) to benchmark driver performance and provide data-driven safety insights.</p>
-      <p><strong>Technologies:</strong> Python, Pandas, Scikit-learn, Statistical Modeling</p>
-    </td>
-    <td width="50%">
-      <h4 align="center">Interactive GPS Sensor Evaluation App</h4>
-      <p>Built an interactive Flask web application to visualize and compare the performance of multiple low-cost GPS sensors against a high-cost benchmark, leading to a cost-effective solution.</p>
-      <p><strong>Technologies:</strong> Flask, Python, Pandas, Matplotlib, Plotly</p>
-    </td>
-  </tr>
-</table>
+### **1. Mobility Modelling Project (Gen AI Chatbot)**
+*   **Objective:** To democratize data access and uncover key societal patterns in vehicle purchasing behavior from complex survey data.
+*   **My Contribution:**
+    - Architected a **Gen AI chatbot** using a Retrieval-Augmented Generation (RAG) framework. This chatbot intelligently translates natural language questions from users into dynamic SQL queries executed against GCP BigQuery.
+    - Developed a comprehensive suite of **interactive dashboards** using Looker Studio, Metabase, and Spotfire to visualize findings and provide actionable insights to business stakeholders.
+*   **Technologies:** `Generative AI`, `RAG`, `LLMs`, `Python`, `SQL`, `GCP BigQuery`, `Looker Studio`, `Metabase`, `Spotfire`.
+
+---
+
+### **2. Plant Test Assist (Object Detection for Safety)**
+*   **Objective:** To enhance workplace safety by developing an automated system to monitor and enforce safe distances between vehicle testers and moving vehicles.
+*   **My Contribution:**
+    - Developed and trained a **custom MobileNet object detection model** with OpenCV to calculate the real-time distance between individuals and vehicles.
+    - Implemented a critical **safety alert system** that triggers an immediate notification when any person breaches the predefined 1-meter safety threshold.
+*   **Technologies:** `Computer Vision`, `Deep Learning`, `Python`, `MobileNet`, `OpenCV`, `TensorFlow`.
+
+---
+
+### **3. Driver Data Analysis (DDA) Project**
+*   **Objective:** To create a robust driver scoring system to evaluate and benchmark driver performance, providing data-driven insights for improving safety.
+*   **My Contribution:**
+    - Engineered a driver scoring system from the ground up by analyzing vast amounts of **vehicle CAN data** from Japan.
+    - Utilized statistical models, including **Probability and Cumulative Density Functions (PDF/CDF)**, to score drivers across different age demographics and driving conditions.
+*   **Technologies:** `Statistical Analysis`, `Python`, `Pandas`, `NumPy`, `Scikit-learn`, `Matplotlib`.
+
+---
+
+### **4. ERASMO (GPS Sensor Evaluation Project)**
+*   **Objective:** To identify the most cost-effective GPS sensor for a project by rigorously comparing the performance of low-cost options against a high-cost industry benchmark.
+*   **My Contribution:**
+    - Built an **interactive Flask web application** to visualize and directly compare the performance metrics of multiple GPS sensors in real-time.
+    - Delivered a final, data-driven recommendation on the optimal sensor that balanced high performance with the project's budgetary constraints.
+*   **Technologies:** `Python`, `Flask`, `Pandas`, `Data Visualization`, `Matplotlib`, `Plotly`.
 
 ---
 
